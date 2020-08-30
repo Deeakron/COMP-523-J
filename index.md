@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## COMP 523 J - Venture Capital Online Judging
+- [Main](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md)
+- [Project](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/project.md)
+- [Team](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md)
+- [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md)
+- [Deliverables](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md)
 
-You can use the [editor on GitHub](https://github.com/Deeakron/COMP-523-J/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### What is this site?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Deeakron/COMP-523-J/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site is for a project for the UNC Chapel Hill course [COMP 523](https://comp523.cs.unc.edu/), and contains information relevant to the project.
