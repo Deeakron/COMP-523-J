@@ -5,6 +5,7 @@
 - [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md)
 - [Deliverables](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md)
 
+-------------
 
 ### Team Members:
 * Nathan Schwartz (nathanas@live.unc.edu)
@@ -12,7 +13,6 @@
 * Luke Wheeler ()
 
 ### Team Rules:
-
 #### Team Behavior:
 * For missing a meeting, 24 hours advance notice is expected, with emergencies getting a pass.
 * For frequency of communication, outside of meetings it will be as needed, but we will have an extra meeting on Mondays.
