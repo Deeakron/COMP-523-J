@@ -15,7 +15,7 @@
   - Client Relations Lead
 * [Matthew Wheeler](mailto:mdw1223@live.unc.edu) (mdw1223@live.unc.edu)
   - Webmaster
-* [Luke Wheeler](mailto:lukecw98@live.unc.edu) (lukecs98@live.unc.edu)
+* [Luke Wheeler](mailto:lukecw98@live.unc.edu) (lukecw98@live.unc.edu)
   - Frontend Lead
 
 ------------
