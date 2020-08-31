@@ -11,9 +11,9 @@
 * Nathan Schwartz (nathanas@live.unc.edu)
   - Backend Lead
   - Client Relations Lead
-* Matthew Wheeler ()
+* Matthew Wheeler (mdw1223@live.unc.edu)
   - Knight who says "NI"
-* Luke Wheeler ()
+* Luke Wheeler (lukecw98@live.unc.edu)
   - Sage of the pond
 
 ------------
@@ -27,7 +27,7 @@
 * If there is no response, then you are expected to make a command decision and note the lack of response for later.
 
 #### Coding Style:
-to be determined later
+TBD
 
 #### Git Collaboration:
-trunk-based development 
+Trunk-Based Development 
