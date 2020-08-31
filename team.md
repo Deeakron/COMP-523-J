@@ -10,12 +10,12 @@
 
 ### Team Members:
 #### Email Us!
-* [Nathan Schwartz] (mailto:nathanas@live.unc.edu)
+* [Nathan Schwartz](mailto:nathanas@live.unc.edu)
   - Backend Lead
   - Client Relations Lead
-* [Matthew Wheeler] (mailto:mdw1223@live.unc.edu)
+* [Matthew Wheeler](mailto:mdw1223@live.unc.edu)
   - Webmaster
-* [Luke Wheeler] (mailto:lukecw98@live.unc.edu)
+* [Luke Wheeler](mailto:lukecw98@live.unc.edu)
   - Frontend Lead
 
 ------------
