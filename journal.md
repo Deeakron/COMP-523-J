@@ -1,12 +1,12 @@
-## [COMP 523 J - Venture Capital Online Judging](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md)
-- [Project](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/project.md)
-- [Team](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md)
-- [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md)
+## [COMP 523 J - Venture Capital Online Judging](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md#comp-523-j---venture-capital-online-judging)
+- [Project](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/project.md#comp-523-j---venture-capital-online-judging)
+- [Team](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md#comp-523-j---venture-capital-online-judging)
+- [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#comp-523-j---venture-capital-online-judging)
   - [Schedule](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#schedule)
   - [Meetings](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#meetings)
   - [Journal Entries](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#Journal-Entries)
   - [Discoveries](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#discoveries)
-- [Deliverables](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md)
+- [Deliverables](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md#comp-523-j---venture-capital-online-judging)
 
 ---
 
@@ -38,3 +38,5 @@
 
 ### Discoveries
 
+---
+[back to top](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#comp-523-j---venture-capital-online-judging#comp-523-j---venture-capital-online-judging)
