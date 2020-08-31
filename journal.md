@@ -3,8 +3,8 @@
 - [Team](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md)
 - [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md)
   - [Schedule](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#schedule)
-  - [Meetings](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#schedule)
-  - [Discoveries](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#schedule)
+  - [Meetings](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#meetings)
+  - [Discoveries](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#discoveries)
 - [Deliverables](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md)
 
 ---
