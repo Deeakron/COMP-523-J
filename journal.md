@@ -19,6 +19,9 @@
 ### Meetings
 
 * Assignment 2 Meeting - Monday, August 31st - 4:00 PM - Nathan, Matthew, and Luke
+  - Decided to use Github Pages
+  - Decided roles, rules, and meeting times
+  - Worked on website
 
 ---
 
