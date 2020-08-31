@@ -1,5 +1,4 @@
-## COMP 523 J - Venture Capital Online Judging
-- [Main](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md)
+## [COMP 523 J - Venture Capital Online Judging](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md)
 - [Project](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/project.md)
 - [Team](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md)
 - [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md)
