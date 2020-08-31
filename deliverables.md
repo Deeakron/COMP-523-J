@@ -6,4 +6,4 @@
 
 ### Deliverables
 * Assignment 1 - [Project Management Board](https://trello.com/b/TRUO0EXx/comp-523-j-wvcc-ojs) (Board is private)
-* Assignment 2 - [Web Site](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md)
+* Assignment 2 - [Web Site](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md#comp-523-j---venture-capital-online-judgingd)
