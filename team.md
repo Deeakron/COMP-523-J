@@ -9,7 +9,7 @@
 -------------
 
 ### Team Members:
-Email Us
+#### Email Us!
 * Nathan Schwartz (mailto:nathanas@live.unc.edu)
   - Backend Lead
   - Client Relations Lead
