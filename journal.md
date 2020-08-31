@@ -4,7 +4,7 @@
 - [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md)
   - [Schedule](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#schedule)
   - [Meetings](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#meetings)
-  - [Journal Entries](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#JournalEntries)
+  - [Journal Entries](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#Journal-Entries)
   - [Discoveries](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#discoveries)
 - [Deliverables](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md)
 
