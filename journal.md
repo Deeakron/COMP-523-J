@@ -39,4 +39,4 @@
 ### Discoveries
 
 ---
-[back to top](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#comp-523-j---venture-capital-online-judging#comp-523-j---venture-capital-online-judging)
+[back to top](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#comp-523-j---venture-capital-online-judging)
