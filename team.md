@@ -12,6 +12,8 @@
 * Matthew Wheeler ()
 * Luke Wheeler ()
 
+------------
+
 ### Team Rules:
 #### Team Behavior:
 * For missing a meeting, 24 hours advance notice is expected, with emergencies getting a pass.
