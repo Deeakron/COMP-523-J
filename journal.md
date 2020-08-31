@@ -7,6 +7,15 @@
 
 ---
 
+### Schedule
+
+* Team Meetings: Every Monday and Friday at 4:00 PM EST - Nathan, Matthew, and Luke
+* Mentor Meetings: Every Friday at 5:00 PM EST - Nathan, Matthew, Luke, and Nick
+
+* Client Meetings: Whenever we can arrange them, possibly Wednesdays at 1:15 - Nathan, Matthew, Luke, and Vernon
+
+---
+
 ### Meetings
 
 * Assignment 2 Meeting - Monday, August 31st - 4:00 PM - Nathan, Matthew, and Luke
