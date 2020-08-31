@@ -21,14 +21,19 @@
 ### Meetings
 
 * Assignment 2 Meeting - Monday, August 31st - 4:00 PM - Nathan, Matthew, and Luke
+
+
+---
+
+### Journal Entries
+
+#### August 31st
+* Assignment 2 Meeting
   - Decided to use Github Pages
   - Decided roles, rules, and meeting times
   - Worked on website
-
+  
 ---
 
 ### Discoveries
 
-* The Lost Ark
-* Fountain of Youth
-* Spanish Inquisition
