@@ -9,8 +9,12 @@
 
 ### Team Members:
 * Nathan Schwartz (nathanas@live.unc.edu)
+  - Backend Lead
+  - Client Relations Lead
 * Matthew Wheeler ()
+  - Knight who says "NI"
 * Luke Wheeler ()
+  - Sage of the pond
 
 ------------
 
