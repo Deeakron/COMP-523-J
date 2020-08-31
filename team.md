@@ -12,9 +12,9 @@
   - Backend Lead
   - Client Relations Lead
 * Matthew Wheeler (mdw1223@live.unc.edu)
-  - Knight who says "NI"
+  - Webmaster
 * Luke Wheeler (lukecw98@live.unc.edu)
-  - Sage of the pond
+  - Frontend Lead
 
 ------------
 
