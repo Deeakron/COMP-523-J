@@ -1,10 +1,10 @@
-## [COMP 523 J - Venture Capital Online Judging](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md)
-- [Project](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/project.md)
-- [Team](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md)
+## [COMP 523 J - Venture Capital Online Judging](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md#comp-523-j---venture-capital-online-judging)
+- [Project](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/project.md#comp-523-j---venture-capital-online-judging)
+- [Team](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md#comp-523-j---venture-capital-online-judging)
   - [Team Members](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md#team-members)
   - [Team Rules](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md#team-rules)
-- [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md)
-- [Deliverables](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md)
+- [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#comp-523-j---venture-capital-online-judging)
+- [Deliverables](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md#comp-523-j---venture-capital-online-judging)
 
 -------------
 
@@ -32,3 +32,6 @@ TBD after client meeting
 
 #### Git Collaboration:
 Trunk-Based Development 
+
+---
+[back to top](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md#comp-523-j---venture-capital-online-judging)
