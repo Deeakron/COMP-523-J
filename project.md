@@ -1,10 +1,10 @@
-## [COMP 523 J - Venture Capital Online Judging](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md)
-- [Project](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/project.md)
+## [COMP 523 J - Venture Capital Online Judging](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md#comp-523-j---venture-capital-online-judging)
+- [Project](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/project.md#comp-523-j---venture-capital-online-judging)
   - [Project Summary](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/project.md#project-summary)
   - [Project Description](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/project.md#project-summary)
-- [Team](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md)
-- [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md)
-- [Deliverables](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md)
+- [Team](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/team.md#comp-523-j---venture-capital-online-judging)
+- [Journal](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#comp-523-j---venture-capital-online-judging)
+- [Deliverables](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md#comp-523-j---venture-capital-online-judging)
 
 ### Project Summary
 
