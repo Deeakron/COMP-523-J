@@ -20,13 +20,19 @@
 ---
 
 ### Meetings
-
+* Client Meeting - Wednesday, September 2nd - 1:15 PM - Nathan, Matthew, Luke, and Vernon
 * Assignment 2 Meeting - Monday, August 31st - 4:00 PM - Nathan, Matthew, and Luke
 
 
 ---
 
 ### Journal Entries
+#### September 2nd
+* Client Meeting
+  - Discussed what client is looking for
+  - Decided a plan of action
+  - End result will be an intermediary between users and currently implemented solution
+  - Additional desires discussed, such as real-time display of results
 
 #### August 31st
 * Assignment 2 Meeting
