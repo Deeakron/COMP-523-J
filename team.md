@@ -29,7 +29,7 @@
 * If there is no response, then you are expected to make a command decision and note the lack of response for later.
 
 #### Coding Style:
-TBD after client meeting
+No particular style
 
 #### Git Collaboration:
 Trunk-Based Development 
