@@ -20,6 +20,7 @@
 ---
 
 ### Meetings
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-4th) - Friday, September 4th - 4:00 PM - Nathan, Matthew, and Luke
 * [Client Meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-2nd) - Wednesday, September 2nd - 1:15 PM - Nathan, Matthew, Luke, and Vernon
 * [Assignment 2 Meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#august-31st) - Monday, August 31st - 4:00 PM - Nathan, Matthew, and Luke
 
@@ -27,6 +28,10 @@
 ---
 
 ### Journal Entries
+#### September 4th
+* Team Meeting
+  - Decided to use node.js as the backend
+  - Discussed user-stories for next client meeting
 #### September 2nd
 * Client Meeting
   - Discussed what client is looking for
