@@ -20,6 +20,7 @@
 ---
 
 ### Meetings
+* [Client meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-10th) - Thursday, September 10th - 4:00 PM - Nathan, Matthew, Luke, and Vernon
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-7th) - Monday, September 7th - 4:00 PM - Nathan, Matthew, and Luke
 * [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-4th) - Friday, September 4th - 5:00 PM - Nathan, Matthew, Luke, and Nick
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-4th) - Friday, September 4th - 4:00 PM - Nathan, Matthew, and Luke
@@ -30,6 +31,9 @@
 ---
 
 ### Journal Entries
+#### September 10th
+* Client Meeting
+  - Finalized user stories
 #### September 7th
 * Team Meeting
   - Discussed potential user stories to talk with the client about
