@@ -35,7 +35,7 @@
 ### Journal Entries
 #### September 11th
 * Mentor Meeting
-  - (To be had)
+  - Reviewed future plans
 * Team Meeting
   - Made sure Assignment 3 was setup on the website
   - Decided on using Figma to setup the clickable prototype  
