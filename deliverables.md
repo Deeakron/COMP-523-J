@@ -11,32 +11,12 @@
 
 ### User Stories
 
-Need:
-As an Administrator
-In order to create events
-I can create a Google Sheet with the Judge / Participant data.
+Need to have:
+* As an Administrator, in order to create events, I can create a Google Sheet with the Judge / Participant data.
+* As a Judge, in order to know which event I'm in, I can click an event and see my name listed.
+* As a Judge, in order to vote in an event, I can click on the event, then my name, then fill out the form.
 
-Need:
-As a Judge
-In order to vote in an event
-I can click on the event, then my name, then fill out the form
-
-Need:
-As a Judge
-In order to know which event I'm in
-I can click an event and see my name listed
-
-Want:
-As an Organizer
-In order to give the students the results
-I can view the real-time results page
-
-Want:
-As a Viewer
-In order to view the final results
-I can navigate to the results page if given permission by the organizer
-
-Want:
-As a Judge
-In order to correct the spelling of my name
-I can type in the new spelling of my name
+Nice to have:
+* As an Organizer, in order to give the students the results, I can view the real-time results page.
+* As a Viewer, in order to view the final results, I can navigate to the results page if given permission by the organizer.
+* As a Judge, in order to correct the spelling of my name, I can type in the new spelling of my name.
