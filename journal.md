@@ -20,6 +20,8 @@
 ---
 
 ### Meetings
+* [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-11th) - Friday, September 11th - 5:00 PM - Nathan, Matthew, Luke, and Nick
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-11th) - Friday, September 11th - 4:00 PM - Nathan, Matthew, and Luke
 * [Client meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-10th) - Thursday, September 10th - 4:00 PM - Nathan, Matthew, Luke, and Vernon
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-7th) - Monday, September 7th - 4:00 PM - Nathan, Matthew, and Luke
 * [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-4th) - Friday, September 4th - 5:00 PM - Nathan, Matthew, Luke, and Nick
@@ -31,6 +33,12 @@
 ---
 
 ### Journal Entries
+#### September 11th
+* Mentor Meeting
+  - (To be had)
+* Team Meeting
+  - Made sure Assignment 3 was setup on the website
+  - Decided on using Figma to setup the clickable prototype  
 #### September 10th
 * Client Meeting
   - Finalized user stories
