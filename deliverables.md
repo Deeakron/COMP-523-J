@@ -8,6 +8,7 @@
 * Assignment 1 - [Project Management Board](https://trello.com/b/TRUO0EXx/comp-523-j-wvcc-ojs) (Board is private)
 * Assignment 2 - [Web Site](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/index.md#comp-523-j---venture-capital-online-judging)
 * Assignment 3 - [User Stories](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md#user-stories)
+* Assignment 4 - [Clickable Prototype](https://www.figma.com/proto/UUul35Gly4q1VOsE5kkV7T/VCIC-Clickable-Prototype?node-id=4%3A0&scaling=scale-down)
 
 ### User Stories
 
