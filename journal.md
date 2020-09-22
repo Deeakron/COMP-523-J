@@ -20,6 +20,9 @@
 ---
 
 ### Meetings
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-21st) - Monday, September 21st - 4:00 PM - Nathan, Matthew, and Luke
+* [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-18th) - Friday, September 18th - 5:00 PM - Nathan, Matthew, Luke, and Nick
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-18th) - Friday, September 18th - 4:00 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-16th) - Wednesday, September 16th - 4:30 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-14th) - Monday, September 14th - 4:00 PM - Nathan, Matthew, and Luke
 * [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-11th) - Friday, September 11th - 5:00 PM - Nathan, Matthew, Luke, and Nick
@@ -35,6 +38,15 @@
 ---
 
 ### Journal Entries
+#### September 21st
+* Team Meeting
+  - Talked about the APPLES reflection
+  - Started thinking about assignments 6 & 7
+#### September 18th
+* Mentor Meeting
+  - Reviewed clickable prototype
+* Team Meeting
+  - Reviewed clickable prototype
 #### September 16th
 * Team Meeting
   - Finished the clickable prototype
