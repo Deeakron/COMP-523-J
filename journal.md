@@ -20,6 +20,7 @@
 ---
 
 ### Meetings
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-24th) - Thursday, September 24th - 4:00 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-21st) - Monday, September 21st - 4:00 PM - Nathan, Matthew, and Luke
 * [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-18th) - Friday, September 18th - 5:00 PM - Nathan, Matthew, Luke, and Nick
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-18th) - Friday, September 18th - 4:00 PM - Nathan, Matthew, and Luke
@@ -38,6 +39,9 @@
 ---
 
 ### Journal Entries
+#### September 24th
+* Team Meeting
+  - Reviewed the reflection and put it on the website  
 #### September 21st
 * Team Meeting
   - Talked about the APPLES reflection
