@@ -20,6 +20,10 @@
 ---
 
 ### Meetings
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-30th) - Wednesday, September 30th - 4:00 PM - Nathan, Matthew, and Luke
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-28th) - Monday, September 28st - 4:00 PM - Nathan, Matthew, and Luke
+* [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-25th) - Friday, September 25th - 5:00 PM - Nathan, Matthew, Luke, and Nick
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-25th) - Friday, September 25th - 4:00 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-24th) - Thursday, September 24th - 4:00 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-21st) - Monday, September 21st - 4:00 PM - Nathan, Matthew, and Luke
 * [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-18th) - Friday, September 18th - 5:00 PM - Nathan, Matthew, Luke, and Nick
@@ -39,6 +43,17 @@
 ---
 
 ### Journal Entries
+#### September 30th
+* Team Meeting
+  - Finalized ADRs and created architecture diagram
+#### September 28th
+* Team Meeting
+  - Discussed and created three ADRs
+#### September 25th
+* Mentor Meeting
+  - Reviewed reflection, discussed approach to ADRs
+* Team Meeting
+  - Reviewed reflection, started thinking about ADRs
 #### September 24th
 * Team Meeting
   - Reviewed the reflection and put it on the website  
