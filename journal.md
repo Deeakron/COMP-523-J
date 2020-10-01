@@ -21,7 +21,7 @@
 
 ### Meetings
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-30th) - Wednesday, September 30th - 4:00 PM - Nathan, Matthew, and Luke
-* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-28th) - Monday, September 28st - 4:00 PM - Nathan, Matthew, and Luke
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-28th) - Monday, September 28th - 4:00 PM - Nathan, Matthew, and Luke
 * [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-25th) - Friday, September 25th - 5:00 PM - Nathan, Matthew, Luke, and Nick
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-25th) - Friday, September 25th - 4:00 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-24th) - Thursday, September 24th - 4:00 PM - Nathan, Matthew, and Luke
