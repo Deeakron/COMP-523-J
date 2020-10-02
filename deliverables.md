@@ -42,12 +42,14 @@ Constraints: Our page needs to be embedded onto the client's website, which runs
 Options: Create a dedicated backend server or Create only the front-end application.
 
 Client-Server Architecture
+
 Pros: 
 - More modular
 - Easy to add functionality
 - Easy to implement routes
 - More resources readily available
 - Less complex
+
 Cons:
 - Needs to host backend separately
 - More moving parts
@@ -55,11 +57,13 @@ Cons:
 - Would probably cost money to host
 
 Front-End only Archictecture
+
 Pros:
 - Does not need a server
 - Less dependencies
 - Less moving parts
 - Would not cost extra to host
+
 Cons:
 - Less modular
 - Harder to add functionality
@@ -79,19 +83,23 @@ Constraints: The application must be able to dynamically access a database based
 Options: Google Sheets or Database as a Service
 
 Google Sheets
+
 Pros:
 - Utilizing existing infrastructure
 - Client has more experience using it
 - Free
 - Simple
+
 Cons:
 - Need to figure out how to use it
 - Could be less efficient
 
 Database as a Service
+
 Pros:
 - Could be more efficient
 - Plenty of online documentation exists
+
 Cons:
 - Not Free
 - Not Simple
@@ -109,15 +117,19 @@ Constraints: This language needs to work with wordpress.
 Options: Javascript or PHP
 
 Javascript
+
 Pros:
 - Build for writing interactive webpages
 - Less complex for Front-End use
+
 Cons:
 - More complex for logic
 
+PHP
 
 Pros:
 - Less complex for logic
+
 Cons:
 - Built for front-end and back-end logic
 - More complex for Front-End use
@@ -132,34 +144,40 @@ Constraints: It must provide functionality to javascript.
 Options: React or Vue or our-own-thing
 
 React:
+
 Pros:
-	- Taught in the UNC curriculum
-	- A main javascript front-end
-	- Plenty or tutorials and resources for it
-	- Comes with plenty of UI functionality
+- Taught in the UNC curriculum
+- A main javascript front-end
+- Plenty or tutorials and resources for it
+- Comes with plenty of UI functionality
+	
 Cons:
-	- Complicated
-	- Very large
-	- Learning curve
+- Complicated
+- Very large
+- Learning curve
 
 Vue:
+
 Pros:
-	- Lightweight
-	- Easy to use
-	- Faster
+- Lightweight
+- Easy to use
+- Faster
+	
 Cons:
-	- Comes with less UI functionality
-	- Indepently developed
-	- Not taught in the UNC curriculum
+- Comes with less UI functionality
+- Indepently developed
+- Not taught in the UNC curriculum
 	
 Our-own-thing:
+
 Pros:
-	- We would know how it works
+- We would know how it works
+	
 Cons:
-	- Would be clunky, inefficient, poorly designed
-	- Cannot be finished within one semester
-	- Would need to provide continual support
-	- Would come with no UI funcionality
+- Would be clunky, inefficient, poorly designed
+- Cannot be finished within one semester
+- Would need to provide continual support
+- Would come with no UI funcionality
 	
 Decision: Because it fulfills all of our needs and was recommended by the mentor, we will be using the React framework.
 
