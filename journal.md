@@ -20,6 +20,9 @@
 ---
 
 ### Meetings
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-5th) - Monday, October 5th - 4:00 PM - Nathan, Matthew, and Luke
+* [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-2nd) - Friday, October 2nd - 5:00 PM - Nathan, Matthew, Luke, and Nick
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-2nd) - Friday, October 2nd - 4:00 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-30th) - Wednesday, September 30th - 4:00 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-28th) - Monday, September 28th - 4:00 PM - Nathan, Matthew, and Luke
 * [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#september-25th) - Friday, September 25th - 5:00 PM - Nathan, Matthew, Luke, and Nick
@@ -43,6 +46,14 @@
 ---
 
 ### Journal Entries
+#### October 5th
+* Team Meeting
+  - Setup github repository for code, started progress on specific roles on code
+#### October 2nd
+* Mentor Meeting
+  - Reviewed ADRs and diagram
+* Team Meeting
+  - Reviewed ADRs and diagram
 #### September 30th
 * Team Meeting
   - Finalized ADRs and created architecture diagram
