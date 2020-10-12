@@ -20,6 +20,11 @@
 ---
 
 ### Meetings
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-11th) - Sunday, October 11th - 3:20 PM - Nathan, Matthew, and Luke
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-10th) - Saturday, October 10th - 11:30 AM - Nathan, Matthew, and Luke
+* [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-9th) - Friday, October 9th - 5:00 PM - Nathan, Matthew, Luke, and Nick
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-9th) - Friday, October 9th - 4:00 PM - Nathan, Matthew, and Luke
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-7th) - Wednesday, October 7th - 4:00 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-5th) - Monday, October 5th - 4:00 PM - Nathan, Matthew, and Luke
 * [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-2nd) - Friday, October 2nd - 5:00 PM - Nathan, Matthew, Luke, and Nick
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-2nd) - Friday, October 2nd - 4:00 PM - Nathan, Matthew, and Luke
@@ -46,6 +51,20 @@
 ---
 
 ### Journal Entries
+#### October 11th
+* Team Meeting
+  - Discussed progress, put together midterm presentation
+#### October 10th
+* Team Meeting
+  - Discussed adjustments to better utilize React
+#### October 9th
+* Mentor Meeting
+  - Reviewed walking skeleton progress, discussed how to improve
+* Team Meeting
+  - More progress on walking skeleton
+#### October 7th
+* Team Meeting
+  - Continued progress on walking skeleton
 #### October 5th
 * Team Meeting
   - Setup github repository for code, started progress on specific roles on code
