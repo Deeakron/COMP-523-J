@@ -12,6 +12,7 @@
 * Assignment 5 - [Apples Reflection 1](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md#apples-reflection-1)
 * Assignment 6 - [Application Architecture](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md#application-architecture)
 * Assignment 7 - [Architecture Diagram](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md#application-diagram)
+* Assignment 9 - [Midterm Presentation](https://docs.google.com/presentation/d/1yTJ45F_x-e_LXWPIcksyG-ltLQu3-1x2ww8HwgD0F10/edit?usp=sharing)
 
 ### User Stories
 
