@@ -20,6 +20,14 @@
 ---
 
 ### Meetings
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-28th) - Wednesday, October 28th - 11:45 AM - Nathan, Matthew, Luke, and Vernon
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-26th) - Monday, October 26th - 4:00 PM - Nathan, Matthew, and Luke
+* [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-23rd) - Friday, October 23rd - 5:00 PM - Nathan, Matthew, Luke, and Nick
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-23rd) - Friday, October 23rd - 4:00 PM - Nathan, Matthew, and Luke
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-19th) - Monday, October 19th - 4:00 PM - Nathan, Matthew, and Luke
+* [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-16th) - Friday, October 16th - 5:00 PM - Nathan, Matthew, Luke, and Nick
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-16th) - Friday, October 16th - 4:00 PM - Nathan, Matthew, and Luke
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-12th) - Monday, October 12th - 4:00 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-11th) - Sunday, October 11th - 3:20 PM - Nathan, Matthew, and Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-10th) - Saturday, October 10th - 11:30 AM - Nathan, Matthew, and Luke
 * [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-9th) - Friday, October 9th - 5:00 PM - Nathan, Matthew, Luke, and Nick
@@ -51,6 +59,28 @@
 ---
 
 ### Journal Entries
+#### October 28th
+* Client Meeting
+  - Showed the client current progress, found bugs that need to be fixed as well as additional things that could be implemented
+#### October 26th
+* Team Meeting
+  - Checked up on progress, discussed tech talk; agreed upon needing to check with the client
+#### October 23rd
+* Mentor Meeting
+  - Checked up on progress, discussed approach for tech talk
+* Team Meeting
+  - Discussed approach for tech talk
+#### October 19th
+* Team Meeting
+  - Discussed possiblility of using routing and decided against it; discussed other improvements
+#### October 16th
+* Mentor Meeting
+  - Checked up on program, what still needs to be done
+* Team Meeting
+  - Discussed what to do next
+#### October 12th
+* Team Meeting
+  - Discussed progress, reviewed midterm presentation
 #### October 11th
 * Team Meeting
   - Discussed progress, put together midterm presentation
