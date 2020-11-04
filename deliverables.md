@@ -13,6 +13,8 @@
 * Assignment 6 - [Application Architecture](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md#application-architecture)
 * Assignment 7 - [Architecture Diagram](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md#application-diagram)
 * Assignment 9 - [Midterm Presentation](https://docs.google.com/presentation/d/1yTJ45F_x-e_LXWPIcksyG-ltLQu3-1x2ww8HwgD0F10/edit?usp=sharing)
+* [Tech Talk Presentation](https://docs.google.com/presentation/d/1LQhzsYi8q72A2QyU-L2Jw75hTM9pAL6IbQE7e7RIQ4U/edit?usp=sharing)
+* [Codepen Demo](https://codepen.io/lukecw98/pen/ZEORqEX)
 
 ### User Stories
 
