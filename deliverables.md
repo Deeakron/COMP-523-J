@@ -15,6 +15,8 @@
 * Assignment 9 - [Midterm Presentation](https://docs.google.com/presentation/d/1yTJ45F_x-e_LXWPIcksyG-ltLQu3-1x2ww8HwgD0F10/edit?usp=sharing)
 * [Tech Talk Presentation](https://docs.google.com/presentation/d/1LQhzsYi8q72A2QyU-L2Jw75hTM9pAL6IbQE7e7RIQ4U/edit?usp=sharing)
 * [Codepen Demo](https://codepen.io/lukecw98/pen/ZEORqEX)
+* [Coverage Report](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/coverage.html)
+* [Interpretation](https://docs.google.com/document/d/1xto_KV5Kqrwp3m8amfxA5FI1a2PgA8OKiskXyb4n7F4/edit?usp=sharing)
 
 ### User Stories
 
