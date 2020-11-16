@@ -17,6 +17,7 @@
 * [Codepen Demo](https://codepen.io/lukecw98/pen/ZEORqEX)
 * [Coverage Report](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/coverage.html)
 * [Interpretation](https://docs.google.com/document/d/1xto_KV5Kqrwp3m8amfxA5FI1a2PgA8OKiskXyb4n7F4/edit?usp=sharing)
+* [Client Overview](https://docs.google.com/document/d/1tOpmsLzCuT7eR41YJ-X4paHsvqc__1hmqxRKVKjArHc/edit?usp=sharing)
 
 ### User Stories
 
