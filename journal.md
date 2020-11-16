@@ -20,6 +20,14 @@
 ---
 
 ### Meetings
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#november-16th) - Monday, November 16th - 4:00 PM - Nathan, Matthew, Luke
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#november-9th) - Monday, November 9th - 4:00 PM - Nathan, Matthew, Luke
+* [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#november-6th) - Friday, November 6th - 5:00 PM - Nathan, Matthew, Luke, and Nick
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#november-6th) - Friday, November 6th - 4:00 PM - Nathan, Matthew, Luke
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#november-4th) - Wednesday, November 4th - 2:00 PM - Nathan, Matthew, Luke
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#november-2nd) - Monday, November 2nd - 4:00 PM - Nathan, Matthew, Luke
+* [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-30th) - Friday, October 30th - 5:00 PM - Nathan, Matthew, Luke, and Nick
+* [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-30th) - Friday, October 30th - 4:00 PM - Nathan, Matthew, Luke
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-28th) - Wednesday, October 28th - 11:45 AM - Nathan, Matthew, Luke, and Vernon
 * [Team meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-26th) - Monday, October 26th - 4:00 PM - Nathan, Matthew, and Luke
 * [Mentor meeting](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/journal.md#october-23rd) - Friday, October 23rd - 5:00 PM - Nathan, Matthew, Luke, and Nick
@@ -59,6 +67,28 @@
 ---
 
 ### Journal Entries
+#### November 16th
+* Team Meeting
+  - Discussed plans to start work on final presentation, meet with client one last time
+#### November 9th
+* Team Meeting
+  - Discussed handling of the last few assignments, and finishing up the project
+#### November 6th
+* Mentor Meeting
+  - Reviewed tech talk, testing suite
+* Team Meeting
+  - Reviewed tech talk, testing suite
+#### November 4th
+* Team Meeting
+  - Practiced tech talk
+#### November 2nd
+* Team Meeting
+  - Tried finishing the tech talk
+#### October 30th
+* Mentor Meeting
+  - Discussed testing and tech talk, and improvements to site
+* Team Meeting
+  - Discussed testing and tech talk
 #### October 28th
 * Client Meeting
   - Showed the client current progress, found bugs that need to be fixed as well as additional things that could be implemented
