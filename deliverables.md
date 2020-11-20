@@ -18,6 +18,8 @@
 * [Coverage Report](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/coverage.html)
 * [Interpretation](https://docs.google.com/document/d/1xto_KV5Kqrwp3m8amfxA5FI1a2PgA8OKiskXyb4n7F4/edit?usp=sharing)
 * [Client Overview](https://docs.google.com/document/d/1tOpmsLzCuT7eR41YJ-X4paHsvqc__1hmqxRKVKjArHc/edit?usp=sharing)
+* [Apples Reflection 2](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/deliverables.md#apples-reflection-2)
+* [Final Presentation](https://docs.google.com/presentation/d/1kesmSWX1PpI9L5btJfR7qxAuzEjl3fbKymgcPAR5AZg/edit?usp=sharing)
 
 ### User Stories
 
@@ -189,3 +191,7 @@ Decision: Because it fulfills all of our needs and was recommended by the mentor
 
 ### Architecture Diagram
 ![image](https://github.com/Deeakron/COMP-523-J/blob/gh-pages/comp523_architecture_diagram.png)
+
+### Apples Reflection 2
+
+As we’ve continued to work on the project for the client, our impression of their purpose has remained much the same as before. By now, the code has been given to the client, and will be used in an upcoming competition. Most importantly, judges can now easily vote from the website without needing to go to an external form, and can now use a simple form that makes the process easier. As a result, the process will be more enjoyable for the judges and will help VCIC grow and be able to help more students learn.
